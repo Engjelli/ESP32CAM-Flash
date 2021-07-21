@@ -8,7 +8,7 @@
 //hecho de que cuentas con la base programadora.
 
 //Definición de pines
-#define LAMP 4 //Se selecciona 
+#define LAMP 5 //Se selecciona Engjelinn
 
 //Inicialización del programa
 void setup() //Estructura principal
